@@ -14,5 +14,7 @@
     /* justify-content: space-evenly; Aligns items with equal space between them */
     justify-content: space-between; /* Aligns items with equal space around them */
     /* align-items: flex-end;Aligns items to the bottom */
-    align-items: center; /* Aligns items to the center */
+    /* align-items: center; Aligns items to the center */
+    align-items: stretch; /* Aligns items to the top */
+
 }
