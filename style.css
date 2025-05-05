@@ -9,5 +9,5 @@
     background-color: #ccc;
 
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
 }
