@@ -9,5 +9,6 @@
     background-color: #ccc;
 
     display: flex;
-    flex-wrap: nowrap;
+    flex-flow: row wrap; /* Is the combination of flex-wrap: wrap; +  flex-direction: row; */ 
+    justify-content: center;
 }
