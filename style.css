@@ -10,5 +10,5 @@
 
     display: flex;
     flex-flow: row wrap; /* Is the combination of flex-wrap: wrap; +  flex-direction: row; */ 
-    justify-content: space-around;
+    justify-content: space-between;
 }
