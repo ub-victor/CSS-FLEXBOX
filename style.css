@@ -10,10 +10,11 @@
 
     display: flex;
     flex-flow: row wrap; /* Is the combination of flex-wrap: wrap; +  flex-direction: row; */ 
-    /* justify-content: flex-start; Aligns items to the left */
+    align-items: end; /* Aligns items to the bottom */
     /* justify-content: space-evenly; Aligns items with equal space between them */
     justify-content: space-between; /* Aligns items with equal space around them */
     /* align-items: flex-end;Aligns items to the bottom */
     /* align-items: center; Aligns items to the center */
-    align-items: stretch; /* Aligns items to the top And here the item will take up the entire height of that isinside of.
+    /* align-items: stretch; /* Aligns items to the top And here the item will take up the entire height of that isinside of. */
+    align-items: flex-start; /* Aligns items to the top */
 }
