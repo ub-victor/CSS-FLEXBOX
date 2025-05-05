@@ -17,4 +17,6 @@
     /* align-items: center; Aligns items to the center */
     /* align-items: stretch; /* Aligns items to the top And here the item will take up the entire height of that isinside of. */
     align-items: flex-start; /* Aligns items to the top */
+    align-content: center;/* Aligns items to the center  by putting all item together*/
+    
 }
