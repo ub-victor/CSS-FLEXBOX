@@ -16,7 +16,7 @@
     /* align-items: end; Aligns items to the bottom */
     align-items: flex-start;       /* align individual items */
     /* justify-content: space-evenly; Aligns items with equal space between them */
-    justify-content: space-between; /* Aligns items with equal space around them */
+    justify-content: space-between; /* Aligns items with equal space around them horizontally*/
     /* align-items: flex-end;Aligns items to the bottom */
     /* align-items: center; Aligns items to the center */
     /* align-items: stretch; /* Aligns items to the top And here the item will take up the entire height of that isinside of. */
