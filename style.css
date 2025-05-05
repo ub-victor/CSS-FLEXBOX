@@ -10,13 +10,19 @@
 
     display: flex;
     flex-flow: row wrap; /* Is the combination of flex-wrap: wrap; +  flex-direction: row; */ 
-    align-items: end; /* Aligns items to the bottom */
+
+    /* align-items aligns items within a single flex line, while align-content aligns multiple flex lines within the container. */
+
+    /* align-items: end; Aligns items to the bottom */
+    align-items: flex-start;       /* align individual items */
     /* justify-content: space-evenly; Aligns items with equal space between them */
     justify-content: space-between; /* Aligns items with equal space around them */
     /* align-items: flex-end;Aligns items to the bottom */
     /* align-items: center; Aligns items to the center */
     /* align-items: stretch; /* Aligns items to the top And here the item will take up the entire height of that isinside of. */
     align-items: flex-start; /* Aligns items to the top */
-    align-content: center;/* Aligns items to the center  by putting all item together*/
+    /* align-content: center;Aligns items to the center  by putting all item together */
+    /* align individual items */
+    align-content: space-between; /* makes equal space between and no space at edges vertically */
     
 }
