@@ -13,6 +13,9 @@ footer{
     padding: 40px;
     background-color: #111111;
     display: flex;
-    
+    flex-direction: column;   
+}
 
+.footer-content {
+    
 }
