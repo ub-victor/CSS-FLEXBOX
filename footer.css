@@ -37,4 +37,9 @@ footer ul li a {
     font-family: Catamaran;
     font-size: 24px;
     color: #fff;
+    line-height: 40px;
+}
+
+.footer-links-cases {
+    display: none;
 }
