@@ -29,5 +29,7 @@ footer ul {
 }
 
 footer ul li {
-    
+    display: block;
+    list-style: none;
 }
+
