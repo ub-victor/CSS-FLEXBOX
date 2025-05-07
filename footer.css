@@ -45,5 +45,6 @@ footer ul li a {
 }
 
 .footer-sm {
-    
+    display: flex;
+    gap: 10px;
 }
