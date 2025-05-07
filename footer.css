@@ -74,4 +74,8 @@ footer ul li a {
     .footer-links-cases {
         display: block;
     }
+
+    footer ul li p {
+        font-family: Catamaran;
+    }
 }
