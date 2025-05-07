@@ -71,5 +71,7 @@ footer ul li a {
 }
 
 @media only screen and (min-width: 1000px){
-    
+    .footer-links-cases {
+        display: block;
+    }
 }
