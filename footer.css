@@ -20,7 +20,7 @@ footer{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    gap: 40px;
+    gap: 10px;
 }
 
 footer ul {
