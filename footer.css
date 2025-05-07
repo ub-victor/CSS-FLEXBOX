@@ -63,3 +63,9 @@ footer ul li a {
     background-color: rgb(117, 204, 36);
     border-radius: 8px 8px 0 0;
 }
+
+.Reserved a {
+    text-decoration: underline;
+    color: #007BFF;
+    font-weight: bold;
+}
