@@ -14,7 +14,7 @@
     /* align-items aligns items within a single flex line, while align-content aligns multiple flex lines within the container. */
 
     /* align-items: end; Aligns items to the bottom */
-    align-items: flex-start;       /* align individual items */
+    /* align-items: flex-start;       align individual items */
     /* justify-content: space-evenly; Aligns items with equal space between them */
     justify-content: space-between; /* Aligns items with equal space around them horizontally*/
     /* align-items: flex-end;Aligns items to the bottom */
