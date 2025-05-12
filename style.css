@@ -28,8 +28,10 @@
 
 .item{
     flex-grow: 1; /* The item will grow to fill the available space */
+    background-color: red;
 }
 
 .item2{
     flex-grow: 2;
+    background-color: green;
 }
