@@ -29,7 +29,6 @@
 .item{
     flex-grow: 1; /* The item will grow to fill the available space */
     flex-shrink: 1; /* The item will shrink to fit the container */
-
     background-color: red;
 }
 
