@@ -26,6 +26,10 @@
     align-content: space-between; /* makes equal space between and no space at edges vertically*/
 }
 
+
+/* Key Takeaway
+flex-shrink controls how much an item shrinks when space is tight.
+flex-basis sets the starting size of the item before growth or shrinkage. */
 .item{
     flex-grow: 1; /* The item will grow to fill the available space */
     flex-shrink: 1; /* The item will shrink to fit the container */
