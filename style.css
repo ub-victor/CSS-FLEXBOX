@@ -39,4 +39,6 @@ flex-basis sets the starting size of the item before growth or shrinkage. */
 .item2{
     flex-grow: 2; 
     background-color: green;
+
+    /* flex: 0 1 200px; flex-grow: 0; flex-shrink: 1; flex-basis: 200px; */
 }
