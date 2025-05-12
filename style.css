@@ -27,7 +27,7 @@
 }
 
 .item{
-    order: 1;
+    flex-grow: 1; /* The item will grow to fill the available space */
 }
 
 .item2{
