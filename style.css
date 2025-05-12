@@ -25,3 +25,11 @@
     /* align individual items */
     align-content: space-between; /* makes equal space between and no space at edges vertically*/
 }
+
+.item{
+    order: 1;
+}
+
+.item{
+    order: 1;
+}
