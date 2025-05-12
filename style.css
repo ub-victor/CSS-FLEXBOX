@@ -32,6 +32,6 @@
 }
 
 .item2{
-    flex-grow: 2;
+    flex-grow: 5; 
     background-color: green;
 }
